@@ -1,4 +1,4 @@
-#!/usr/bin/nev python
+#!/usr/bin/env python
 import rospy, unittest, rostest
 import rosnode
 import time
