@@ -6,8 +6,4 @@ script:
   - source ~/catkin_ws/devel/setup.bash
   - bash -xve ./test/travis_package_make.bash
   - source ~/catkin_ws/devel/setup.bash
-<<<<<<< HEAD
-  - rostest pimouse_run_corridor wall_stop.launch
-=======
   - rostest pimouse_ros test.launch
->>>>>>> fbcc8cde3659e41f9a02b5e0ef984aadd093d2a7
