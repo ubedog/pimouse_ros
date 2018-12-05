@@ -7,7 +7,7 @@ pip install pyyaml
 pip install rospkg
 
 #ros install
-cd..
+cd ..
 git clone https://github.com/ubedog/ros_setup_scripts_Ubuntu14.04_server.git
 cd ./ros_setup_scripts_Ubuntu14.04_server
 bash ./step0.bash
